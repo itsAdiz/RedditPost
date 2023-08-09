@@ -1,0 +1,19 @@
+{
+  "name": "redditposts",
+  "version": "1.0.0",
+  "description": "fetch reddit posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsAdiz/RedditPost.git"
+  },
+  "author": "Adiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsAdiz/RedditPost/issues"
+  },
+  "homepage": "https://github.com/itsAdiz/RedditPost#readme"
+}
